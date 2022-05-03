@@ -1,0 +1,450 @@
+Au stand for gold in the periodic table
+True
+or
+False
+?
+T
+Prince Harry is taller than Prince William
+True
+or
+False
+?
+F
+The star sign Aquarius is represented by a tiger
+True
+or
+False
+?
+T
+Meryl Streep has won two Academy Awards
+True
+or
+False 
+?
+F
+Marrakesh is the capital of Morocco 
+True
+or
+False
+?
+F
+Idina Menzel sings 'let it go' 20 times in 'Let It Go' from Frozen 
+True
+or
+False
+?
+F
+Waterloo has the greatest number of tube platforms in London 
+True
+or
+False
+?
+T
+M&M stands for Mars and Moordale 
+True
+or
+False
+?
+F
+Gin is typically included in a Long Island Iced Tea 
+True
+or
+False
+?
+T
+The unicorn is the national animal of Scotland 
+True
+or
+False
+?
+T
+There are two parts of the body that can't heal themselves 
+True
+or
+False
+?
+F
+Howard Donald is the oldest member of Take That 
+True
+or
+False
+?
+T
+The Great Wall of China is longer than the distance between London and Beijing 
+True
+or
+False
+?
+T
+There are 219 episodes of Friends
+True 
+or
+False
+?
+F
+'A' is the most common letter used in the English language
+True 
+or
+False
+?
+F
+A lion's roar can be heard up to eight kilometres away 
+True 
+or
+False
+?
+T
+In Harry Potter, Draco Malfoy has no siblings 
+True
+or
+False
+?
+F
+Louis Walsh is older than Simon Cowell 
+True
+or
+False
+?
+T
+Monaco is the smallest country in the world 
+True
+or
+False
+?
+F
+'What Do You Mean' was Justin Bieber's first UK number one single
+True
+or
+False
+?
+T
+The river Seine in Paris is longer than the river Thames in London
+True
+or 
+False
+?
+T
+A cara cara navel is a type of orange 
+True
+or
+False
+?
+T
+There are five different blood groups 
+True
+or
+False
+?
+F
+Cinderella was the first Disney princess 
+True
+or
+False
+?
+F
+ASOS stands for As Seen On Screen 
+True
+or
+False
+?
+T
+The Battle Of Hastings took place in 1066 
+True
+or
+False
+?
+T
+H&M stands for Hennes & Mauritz 
+True
+or
+False
+?
+T
+Canis lupur is the scientific name for a wolf
+True
+or
+False
+?
+F
+K is worth four points in Scrabble 
+True
+or
+False
+?
+F
+Alaska is the biggest American state in square miles 
+True
+or
+False
+?
+T
+Ariana Grande is 25 or under 
+True
+or
+False
+?
+F
+Australia is wider than the moon 
+True
+or
+False
+?
+T
+Queen Elizabeth II is currently the second longest reigning British monarch 
+True
+or
+False
+?
+F
+Madonna's real name is Madonna 
+True
+or
+False
+?
+T
+Serena Williams has one more singles tennis Grand Slam titles than sister Venus 
+True
+or
+False
+?
+T
+Alexander Fleming discovered penicillin 
+True
+or
+False
+?
+T
+The Channel Tunnel is the longest rail tunnel in the world 
+True
+or
+False
+?
+F
+A woman has walked on the Moon 
+True
+or
+False
+?
+F
+According to Scottish law, it is illegal to be drunk in charge of a cow 
+True
+or
+False
+?
+T
+her’s full name is Cherilyn Sarkisian 
+True
+or
+False
+?
+T
+The setting for the ITV drama Midsomer Murders is a fictional English county called Midsomer 
+True
+or
+False
+?
+T
+An emu can fly 
+True
+or
+False
+?
+T
+President Theodore Roosevelt's son was called Kermit 
+True
+or
+False
+?
+T
+Edinburgh is further East than Carlisle 
+True
+or
+False
+?
+F
+The can-opener was not invented until 45 years after the tin can
+True
+or
+False
+?
+T
+There are McDonald’s one every continent except one 
+True
+or
+False
+?
+T
+Nicolas Cage and Michael Jackson were married to the same woman 
+True
+or
+False
+?
+T
+Humans are the only animals that bury their dead 
+True
+or
+False
+?
+F
+There are more than 100 bridges over the Amazon River 
+True
+or
+False
+?
+F
+Vietnamese is an official language in Canada 
+True
+or
+False
+?
+F
+Meghan Markle’s first name is Rachel 
+True
+or
+False
+?
+T
+The five rings on the Olympic flag are interlocking 
+True
+or
+False
+?
+T
+Mount Kilimanjaro is the highest mountain in the world 
+True
+or
+False
+?
+F 
+Strictly Come Dancing first aired in the UK in 2005 
+True
+or
+False
+?
+F
+A group of swans is known as a bevy 
+True
+or
+False
+?
+T 
+Sydney is the capital of Australia 
+True
+or
+False
+?
+F 
+The Penny Black is an old-fashioned coin 
+True
+or
+False
+?
+F 
+Glastonbury had been due to celebrate its 50th anniversary in June before the festival was cancelled 
+True
+or
+False
+?
+T
+Will.i.am is the only mentor to have appeared on every single series of The Voice UK 
+True
+or
+False
+?
+T
+A heptagon has eight sides 
+True
+or
+False
+?
+F
+The star sign Capricorn is represented by a goat 
+True
+or
+False
+?
+T
+The Penny Black is the name of a valuable old coin 
+True
+or
+False
+?
+F
+Fish cannot blink 
+True
+or
+False
+?
+T 
+Seahorses have no teeth or stomach 
+True
+or
+False
+?
+T
+Nepal is the only country in the world which does not have a rectangular flag 
+True
+or
+False
+?
+T
+Ellie Goulding had the final number one single of the 2010s 
+True
+or
+False
+?
+T
+Only one film has ever won all five of the main Oscars (film, director, actor, actress and screenplay) 
+True
+or
+False
+?
+F
+Switzerland shares land borders with four other countries 
+True
+or
+False
+?
+F
+Last Christmas by Wham! reached number one during the 1984 festive season 
+True
+or
+False
+?
+F
+The knight is the only piece in chess which can only move diagonally
+True
+or
+False
+?
+F
+Cyclones spin in a clockwise direction in the southern hemisphere 
+True
+or
+False
+?
+T
+Goldfish only have a memory of three seconds 
+True
+or
+False
+?
+F
+The capital of Libya is Benghazi 
+True
+or
+False
+?
+F
+Dolly Parton is the godmother of Miley Cyrus 
+True
+or
+False
+?
+T
+1+1 is 2
+True
+or
+False
+?
+T
